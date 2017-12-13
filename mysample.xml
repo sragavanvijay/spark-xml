@@ -1,0 +1,55 @@
+<head1>
+  <key1>
+    <value>1000000041</value>
+    <value>1000000753</value>
+    <value>1000000787</value>
+    <value>1000000850</value>
+    <value>1000000854</value>
+    <value>1000000895</value>
+    <value>1000000918</value>
+    <value>1000000935</value>
+    <value>1000000944</value>
+    <value>1000000948</value>
+  </key1>
+  <Dialog>
+    <per-id>4862051048077021050</per-id>
+    <p-key>7179dec1-730b-4c76-a83e-9419ab2899a6</p-key>
+    <SessionId />
+    <a1></a1>
+    <date>2017-10-27T20:12:14</date>
+    <EndDate>0001-01-01T00:00:00</EndDate>
+    <OfflineQualifications />
+    <valueeractions>
+      <valueeraction>
+        <Index>1</Index>
+        <Duration>0</Duration>
+        <manText>how much money is left owning in my account</manText>
+        <per-text>&lt;div&gt;For which account?&lt;/div&gt; &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#&quot; data-vtz-link-type=&quot;Dialog&quot; data-vtz-jump=&quot;5a6e58ce-e90e-4d60-8944-0abb6c8f9e25&quot;&gt;Credit card&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;#&quot; data-vtz-link-type=&quot;Dialog&quot; data-vtz-jump=&quot;18ac59f9-f891-41cf-9ab2-1886575fa0b5&quot;&gt;Loan&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</per-text>
+        <HumanDate>2017-10-27T10:12:14.256Z</HumanDate>
+        <Tags>
+          <Tag>
+            <Name>assettype_netbank</Name>
+            <Code>assettype_netbank</Code>
+          </Tag>
+          <Tag>
+            <Name>business</Name>
+            <Code>business</Code>
+          </Tag>
+          <Tag>
+            <Name>business_option</Name>
+            <Code>business_option</Code>
+          </Tag>
+        </Tags>
+      </valueeraction>
+      <valueeraction>
+        <Index>2</Index>
+        <Duration>0</Duration>
+        <manText />
+        <per-text>&lt;b&gt;Invocation Povalue:&lt;/b&gt; </per-text>
+        <HumanDate>2017-10-27T10:17:39.253Z</HumanDate>
+        <Tags />
+      </valueeraction>
+    </valueeractions>
+    <Urls />
+  </Dialog>
+</head1>
